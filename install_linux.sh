@@ -1,3 +1,4 @@
+sudo apt update
 sudo apt -y install vim-gtk
 sudo apt -y install gfortran
 sudo apt -y install libblas-dev liblapack-dev
